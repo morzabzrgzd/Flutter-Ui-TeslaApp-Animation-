@@ -1,4 +1,4 @@
-# tesla_animation_app
+# Flutter Ui (Tesla Animation)
 
 A new Flutter project.
 
