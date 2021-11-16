@@ -1,6 +1,8 @@
 # Flutter Ui (Tesla Animation)
 
-A new Flutter project.
+https://user-images.githubusercontent.com/87581799/141966433-950037d2-a46f-434a-b9d1-229234f8216f.mp4
+
+
 
 ## Getting Started
 
